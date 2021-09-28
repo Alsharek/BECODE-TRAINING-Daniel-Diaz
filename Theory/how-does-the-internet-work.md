@@ -27,3 +27,4 @@ LGTM
 
 this theory file has been reviewed by Etienne
 This theory file has been reviewed by Teo
+this theory file has been reviewed by Boris ![cat](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif?cid=ecf05e47e957ijpm1djvk2v2rbwa6nit683ioww9n49o0ldy&rid=giphy.gif&ct=g)
