@@ -27,3 +27,5 @@ LGTM
 
 this theory file has been reviewed by Etienne
 This theory file has been reviewed by Teo
+
+# APPROVED BY **ALSHAREK**
